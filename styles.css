@@ -1,14 +1,7 @@
-h1 {
-    color: #E77C03;
-    font-size: 70px;
-    text-align: center;
-    text-decoration-line: underline;
-    text-decoration-color:#07BAC6;
-}
-
-.list {
+.main-list {
     color: #07BAC6;
     font-size: 22px;
+    text-align: center;
 }
 
 .beans {
@@ -30,4 +23,21 @@ h1 {
     width: 20%;
     display: block;
     margin: auto;
+}
+
+h1 {
+    color: #E77C03;
+    font-size: 70px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color:#07BAC6;
+}
+
+h2, h3,
+p {
+    text-align: center;
+}
+
+.lists {
+    text-align: center;
 }
