@@ -1,0 +1,33 @@
+h1 {
+    color: #E77C03;
+    font-size: 70px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color:#07BAC6;
+}
+
+.list {
+    color: #07BAC6;
+    font-size: 22px;
+}
+
+.beans {
+    border: 5px solid #555;
+    width: 10%;
+    display: block;
+    margin: auto;
+}
+
+.scones {
+    border: 5px solid #555;
+    width: 15%;
+    display: block;
+    margin: auto;
+}
+
+.brownies {
+    border: 5px solid #555;
+    width: 20%;
+    display: block;
+    margin: auto;
+}
